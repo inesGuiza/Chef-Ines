@@ -9554,6 +9554,12 @@ body .courg {
 body .up {
   font-size: 50px;
 }
+body .up2 {
+  font-size: 40px;
+}
+body p {
+  font-size: 12px;
+}
 body .nav-link {
   font-size: 15px;
 }
@@ -9566,6 +9572,36 @@ body #deco {
 body .losange {
   border-radius: 30px 30px 30px 30px;
   font-size: 15px;
+}
+body h1, body h2 {
+  font-family: courgette;
+}
+body .carte {
+  background-color: #fff;
+  border: 1px solid #6c757d;
+  background-image: url("../images/");
+  background-repeat: no-repeat;
+}
+body .cafe {
+  border: 3px solid #aaa;
+}
+body .logo {
+  font-family: courgette;
+}
+body .point {
+  border-bottom: 1px dotted #c2c2c2;
+}
+body #chef {
+  background-color: #000000;
+}
+body .rouge {
+  border-right: 4px solid #dc3545;
+}
+body .cadre {
+  background-color: #c2c2c2;
+}
+body .nom {
+  font-family: flat;
 }
 
 /*# sourceMappingURL=style.css.map */
